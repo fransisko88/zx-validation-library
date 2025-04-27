@@ -1,0 +1,33 @@
+# Ignore test folder and all its contents
+src/test/
+
+# Maven build output
+target/
+*.jar
+*.war
+*.ear
+
+# Maven local repository cache
+.m2/
+
+# IDE-specific files
+.idea/
+*.iml
+*.iws
+.vscode/
+.classpath
+.project
+.settings/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
